@@ -1,0 +1,15 @@
+Tesztesetek(GT4500 osztály fireTorpedo):
+
+1. case SINGLE: (try to fire the secondary first)
+
+2. case SINGLE
+(although primary was fired last time, but the secondary is empty thus try to fire primary again)
+
+
+3. case SINGLE (try to fire the primary first)
+
+4. case SINGLE 
+(although secondary was fired last time, but primary is empty thus try to fire secondary again)
+
+
+5. CASE ALL (try to fire both of the torpedo stores): 
